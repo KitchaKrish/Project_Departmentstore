@@ -1,0 +1,17 @@
+F:\Mini Projects My  Clg\rd project\marksheet\marksheet\bin\Debug\marksheet.exe.config
+F:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.exe
+F:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.xml
+F:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.pdb
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\bin\Debug\marksheet.exe.config
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.exe
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.xml
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.pdb
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\bin\Debug\Database1.mdf
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\bin\Debug\Database1_log.ldf
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\bin\Debug\marksheet.exe
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\bin\Debug\marksheet.pdb
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\bin\Debug\marksheet.xml
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.admin.resources
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.Form3.resources
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.Resources.resources
+D:\Mini Projects My  Clg\rd project\marksheet\marksheet\obj\Debug\marksheet.vbproj.GenerateResource.Cache

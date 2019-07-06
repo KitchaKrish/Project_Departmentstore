@@ -1,0 +1,14 @@
+D:\project\rdbms\marksheet\marksheet\bin\Debug\marksheet.exe.config
+D:\project\rdbms\marksheet\marksheet\obj\Debug\marksheet.exe
+D:\project\rdbms\marksheet\marksheet\obj\Debug\marksheet.xml
+D:\project\rdbms\marksheet\marksheet\obj\Debug\marksheet.pdb
+D:\project\rdbms\marksheet\marksheet\bin\Debug\Database1.mdf
+D:\project\rdbms\marksheet\marksheet\bin\Debug\Database1_log.ldf
+D:\project\rdbms\marksheet\marksheet\bin\Debug\marksheet.exe
+D:\project\rdbms\marksheet\marksheet\bin\Debug\marksheet.pdb
+D:\project\rdbms\marksheet\marksheet\bin\Debug\marksheet.xml
+D:\project\rdbms\marksheet\marksheet\obj\Debug\ResolveAssemblyReference.cache
+D:\project\rdbms\marksheet\marksheet\obj\Debug\marksheet.Form3.resources
+D:\project\rdbms\marksheet\marksheet\obj\Debug\marksheet.Resources.resources
+D:\project\rdbms\marksheet\marksheet\obj\Debug\marksheet.vbproj.GenerateResource.Cache
+D:\project\rdbms\marksheet\marksheet\obj\Debug\marksheet.admin.resources

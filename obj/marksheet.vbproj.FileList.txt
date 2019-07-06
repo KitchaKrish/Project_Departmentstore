@@ -1,0 +1,14 @@
+bin\Debug\Database1.mdf
+bin\Debug\Database1_log.ldf
+bin\Debug\marksheet.exe.config
+bin\Debug\marksheet.exe
+bin\Debug\marksheet.pdb
+bin\Debug\marksheet.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\marksheet.Resources.resources
+obj\Debug\marksheet.vbproj.GenerateResource.Cache
+obj\Debug\marksheet.exe
+obj\Debug\marksheet.xml
+obj\Debug\marksheet.pdb
+obj\Debug\marksheet.Form3.resources
+obj\Debug\marksheet.admin.resources
